@@ -1,0 +1,61 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Poetry
+poetry.lock
+.cache/
+__pypackages__/
+
+# =====================
+# VS Code
+# =====================
+.vscode/
+*.code-workspace
+
+# =====================
+# PyCharm / JetBrains
+# =====================
+.idea/
+*.iml
+
+# =====================
+# Logs
+# =====================
+*.log
+
+# =====================
+# OS files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Testing / coverage
+# =====================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =====================
+# dotenv / secrets
+# =====================
+.env
+.env.*
+!.env.example
+
+# =====================
+# Chainlit
+# =====================
+.chainlit/
