@@ -4,10 +4,13 @@ import ollama
 
 from db import CVDatabase
 from config import DOCUMENTS_DIR, OLLAMA_MODEL
+from indexer import index_resumes
 from utils import leggi_prime_righe
 from prompts import SYSTEM_PROMPT, build_prompt
 
 db = CVDatabase()
+
+index_resumes(db)
 
 @cl.on_chat_start
 async def on_chat_start():
@@ -31,7 +34,7 @@ async def handle_message(message: cl.Message):
     user_question = message.content
 
     results = db.search(user_question, n_results=3)
-
+    print(f"Risultati {results}")
     contexts = []
 
     for i in range(len(results["documents"][0])):
