@@ -1,0 +1,33 @@
+Giuseppe Verdi
+Data Scientist
+
+Email: giuseppe.verdi@email.com
+Telefono: 3334567890
+
+### Profilo
+
+Data scientist con esperienza in machine learning e analisi predittiva.
+
+### Esperienza
+
+Data Scientist presso AI Analytics dal 2021 al 2025.
+
+- modelli machine learning
+- data visualization
+- NLP
+- analisi dati clienti
+- forecasting
+
+### Competenze
+
+Python
+Pandas
+Scikit-learn
+TensorFlow
+Machine Learning
+NLP
+
+### Lingue
+
+Italiano
+Inglese B2
