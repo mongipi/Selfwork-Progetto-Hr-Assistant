@@ -1,0 +1,35 @@
+Mario Rossi
+Senior Backend Developer
+
+Email: mario.rossi@email.com
+Telefono: 3331234567
+
+### Profilo
+
+Backend developer con 10 anni di esperienza nello sviluppo di microservizi e API REST.
+Esperto in Python, FastAPI, Docker e Kubernetes.
+
+### Esperienza
+
+Software Engineer presso Tech Solutions dal 2019 al 2025.
+
+- sviluppo backend Python
+- progettazione API REST
+- integrazione database PostgreSQL
+- deployment Kubernetes
+- CI/CD GitHub Actions
+
+### Competenze
+
+Python
+FastAPI
+Docker
+Kubernetes
+PostgreSQL
+Redis
+GitHub Actions
+
+### Lingue
+
+Italiano
+Inglese B2
