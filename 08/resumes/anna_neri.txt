@@ -1,0 +1,32 @@
+Anna Neri
+Frontend Developer
+
+Email: anna.neri@email.com
+Telefono: 3337654321
+
+### Profilo
+
+Frontend developer specializzata in React e TypeScript con attenzione alla UX.
+
+### Esperienza
+
+Frontend Engineer presso Web Studio dal 2018 al 2025.
+
+- sviluppo interfacce React
+- gestione stato Redux
+- responsive design
+- integrazione API backend
+
+### Competenze
+
+React
+TypeScript
+JavaScript
+Redux
+HTML
+CSS
+
+### Lingue
+
+Italiano
+Inglese B1
